@@ -81,24 +81,4 @@ Output
 
 
  
-# Viva-Voce Questions
-
-•	What is a logic gate?
-
-•	What are the basic logic gates in digital electronics?
-
-•	What is the Boolean expression for an AND gate? An OR gate? A NOT gate?
-
-•	Why is the NOT gate also called an inverter?
-
-•	What is a universal gate, and how can NAND/NOR realize AND, OR, and NOT?
-
-•	What is the purpose of a Verilog testbench?
-
-•	Why is a VCD file generated?
-
-•	What is the purpose of ./simv?
-•	What is the purpose of DVE?
-•	What is the difference between simulation and synthesis?
-•	What is the difference between $dumpfile and $dumpvars?
-
+<img width="1600" height="900" alt="EXP 2 OUTPUT" src="https://github.com/user-attachments/assets/653f12ea-e218-4334-9ed6-20268763bf7f" />
