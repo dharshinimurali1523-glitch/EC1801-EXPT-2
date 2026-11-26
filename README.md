@@ -119,8 +119,6 @@ Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 Output
 # OUTPUT
-<img width="1600" height="900" alt="EXP 2 OUTPUT" src="https://github.com/user-attachments/assets/a0d4ae84-9c9b-4c2c-a9e6-245889c83df3" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-26 at 8 57 02 PM" src="https://github.com/user-attachments/assets/164e2ff0-5303-4299-b0bc-b872a86da3a2" />
 
-
- 
 
